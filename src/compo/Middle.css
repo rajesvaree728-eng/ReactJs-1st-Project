@@ -1,0 +1,19 @@
+.middle-card{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+.cta-btn{
+    background:#ff3b3b;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+.cta-btn:hover{
+    background: #e63232                                                               ;
+}
